@@ -1,16 +1,39 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/qAtZM2gvjWhPjmclZE/giphy.gif" height="200px">
 
-<!--
-**jiexiong2016/jiexiong2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Attributes(jiexiong2016):
+	
+    @staticmethod
+    def contact() -> tuple:
+        name = "Jiexiong Tang"
+        email = "jiexiong@kth.se"
+        return name, email
 
-Here are some ideas to get you started:
+    @staticmethod
+    def life() -> tuple:
+        langs = ['English', 'Chinese']
+        base  = ['Stockholm', 'Sweden']
+        return langs, base
+	
+    @staticmethod
+    def skills() -> tuple:
+        coding = {
+            'daily use':   ['python', 'c++'],
+            'if have to': ['c', 'cuda']
+        }
+        expertise  = ['Computer vision', 'Machine learning', 
+                    'Simultaneous localization and mapping', 'Self-supervised learning',
+                    'Deep but not that deep learning']		
+        return coding, expertise
+	
+    @staticmethod
+    def education() -> tuple:
+        highest = ['Phd in Computer Science', 'KTH Royal Institute of Technology']
+        return highest
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills -->
+<img src="https://skillicons.dev/icons?i=python,cpp,vscode,pytorch" />
+
+<!-- Stats -->
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=jiexiong2016&theme=tokyonight&show_icons=true">
