@@ -32,6 +32,3 @@ class Attributes(jiexiong2016):
 
 <!-- Skills -->
 <img src="https://skillicons.dev/icons?i=python,cpp,vscode,pytorch" />
-
-<!-- Stats -->
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=jiexiong2016&theme=tokyonight&show_icons=true">
