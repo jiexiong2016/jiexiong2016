@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/qAtZM2gvjWhPjmclZE/giphy.gif" height="200px">
-
 ```python
 class Attributes(jiexiong2016):
 	
